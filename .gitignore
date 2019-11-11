@@ -4,7 +4,10 @@ tags
 # dependencies
 /node_modules
 .package.swp
+
+# tools
 yarn-error.log
+pnpm-debug.log
 
 # misc
 /.tmp
