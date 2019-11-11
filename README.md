@@ -46,6 +46,11 @@ npx degit sophiabrandt/write-type-safe-react-applications-with-reason write-type
 ```sh
 cd write-type-safe-react-applications-with-reason && npm install
 ```
+or
+
+```sh
+cd write-type-safe-react-applications-with-reason && yarn install
+```
 
 3. View the slides:
 ```sh
