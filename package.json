@@ -1,0 +1,22 @@
+{
+  "name": "write-type-safe-react-applications-with-reason",
+  "version": "0.0.1",
+  "description": "slides for the talk \"Write Type-Safe React Applications With Reason\"",
+  "main": "index.js",
+  "scripts": {
+    "serve": "npx bs serve"
+  },
+  "keywords": [
+    "reason",
+    "reasonml",
+    "react",
+    "reactjs"
+  ],
+  "author": "Sophia Brandt",
+  "homepage": "https://github.com/sophiabrandt/write-type-safe-react-applications-with-reason",
+  "repository": "https://github.com/sophiabrandt/write-type-safe-react-applications-with-reason",
+  "license": "MIT",
+  "dependencies": {
+    "backslide": "^2.3.7"
+  }
+}

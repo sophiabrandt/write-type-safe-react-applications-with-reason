@@ -1,0 +1,10 @@
+# ctags
+tags
+
+# dependencies
+/node_modules
+.package.swp
+yarn-error.log
+
+# misc
+/.tmp
