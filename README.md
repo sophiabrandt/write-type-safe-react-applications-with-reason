@@ -18,7 +18,7 @@
 
 # About
 
-This is the repository for the **talk "Write Type-Safe React Applications with Reason"** for the **[Softwerkskammer Ruhrgebiet Meetup](https://www.meetup.com/de-DE/Softwerkskammer-Ruhrgebiet/)** in December 2019.
+This is the repository for the **[talk "Write Type-Safe React Applications with Reason"](https://www.meetup.com/de-DE/Softwerkskammer-Ruhrgebiet/events/266382434/)** for the **Softwerkskammer Ruhrgebiet Meetup** in December 2019.
 
 The slides are written in Markdown and built with [backslide](https://github.com/sinedied/backslide) and [Remark.js](https://github.com/gnab/remark).
 
