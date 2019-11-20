@@ -76,6 +76,9 @@ class: middle
 * Why I **Like** ReasonML ❤️
 --
 
+* Some Thoughts About TypeScript ⌨
+--
+
 * ReasonML - yay or nay? 📝
 --
 
@@ -132,35 +135,20 @@ For example,
 --
 * Elm?
 
----
-
-## TypeScript
-
-* unsound type system
-* `<any>` type
-* confusing for a beginner
-* slow compiler
-
----
-
-## PureScript
-
-* high barrier of entry
-* inspired by Haskell
-* Monads!
-
----
-
-## Elm
-
-* focus on _purity_: lots of boilerplate
-* limited interop with JavaScript
+--
+* Reason?
 
 ---
 
 class: impact
 
-# ReasonML, and Why?
+## All valid, choices, but let's focus on:  
+
+---
+
+class: impact
+
+# Reason, and Why?
 
 ---
 * React as first intended
@@ -169,7 +157,7 @@ class: impact
 * ReasonML is **OCaml** under the hood, but with a familiar syntax
 --
 
-* solid type system: 100% coverage
+* solid type system: **100%** coverage from the get-go
 --
 
 * excellent type inference
@@ -178,7 +166,7 @@ class: impact
 * fast compiler
 --
 
-* immutable by default
+* **immutable** by default
 --
 
 * _practical_: you _can_ do side-effects, and mutations
@@ -188,9 +176,6 @@ class: impact
 --
 
 * work with JavaScript ecosystem: build tools, package management
---
-
-
 
 ---
 
@@ -277,6 +262,26 @@ let message =
   };
 ```
 ---
+## Some Thoughts About TypeScript
+(as a beginner)
+
+--
+* it's a bit easier to learn _at first_
+--
+
+* bigger reach (StackOverflow, etc.)
+--
+
+* `<any>` type
+--
+
+* type inference doesn't work that well
+--
+
+* code is verbose & hard to read
+
+---
+
 
 class: impact
 
@@ -310,6 +315,7 @@ class: full
 - [ReasonML Website][official]
 - [ReasonML Documentation Platform][reasonmlorg]
 - [ReasonReact][reasonreact]
+- [TypeScript vs ReasonML - A Comparison][compare] by O. Dubenko
 
 # My links
 
@@ -322,3 +328,4 @@ class: full
 [official]:https://reasonml.github.io/
 [reasonreact]:https://reasonml.github.io/reason-react/en/
 [bucklescript]: https://bucklescript.github.io/en/
+[compare]: https://blog.dubenko.dev/typescript-vs-reason/
