@@ -275,6 +275,9 @@ let message =
 * `<any>` type
 --
 
+* you still have to wrangle with `undefined`
+--
+
 * type inference doesn't work that well
 --
 
