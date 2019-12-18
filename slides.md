@@ -324,12 +324,13 @@ class: full
 - [ReasonML Website][official]
 - [ReasonML Documentation Platform][reasonmlorg]
 - [ReasonReact][reasonreact]
+- [BuckleScript][bucklescript]
 - [TypeScript vs ReasonML - A Comparison][compare] by O. Dubenko
 
 # My links
 
-- Website: [https://wwww.sophiabrandt.com](https://wwww.sophiabrandt.com)
-- Blog: [https://www.rockyourcode.com](https://wwww.rockyourcode.com)
+- Website: [https://www.sophiabrandt.com](https://www.sophiabrandt.com)
+- Blog: [https://www.rockyourcode.com](https://www.rockyourcode.com)
 - Twitter: [https://twitter.com/hisophiabrandt](https://twitter.com/hisophiabrandt)
 
 
