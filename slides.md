@@ -142,7 +142,7 @@ For example,
 
 class: impact
 
-## All valid, choices, but let's focus on:  
+## All valid choices, but let's focus on:  
 
 ---
 
@@ -224,6 +224,7 @@ let licenseNumber =
     None;
   };
 ```
+--
 
 Later:
 ```reasonml
@@ -242,7 +243,6 @@ switch (licenseNumber) {
 --
 
 ```reasonml
-
 type payload =
   | BadResult(int)
   | GoodResult(string)
@@ -259,6 +259,7 @@ let message =
   | GoodResult(theMessage) => "Success! " ++ theMessage
   | BadResult(errorCode) => "Error! Error code: " ++
     string_of_int(errorCode)
+  | NoResult => "No result."
   };
 ```
 ---
@@ -290,9 +291,14 @@ class: impact
 
 ## ReasonML - yay or nay?
 
+---
 ReasonML is an **functional, immutable, type-safe** alternative to vanilla React.js.
 
+--
+
 ReasonML is **fun**.
+
+--
 
 You **have to learn a new way of thinking**.
 
@@ -300,7 +306,7 @@ You **have to learn a new way of thinking**.
 
 class: impact
 
-# ReasonML: yay! 🙌
+# (For me:) ReasonML: yay! 🙌
 
 ---
 
