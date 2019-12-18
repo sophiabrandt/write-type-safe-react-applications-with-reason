@@ -163,7 +163,7 @@ class: impact
 * excellent type inference
 --
 
-* fast compiler
+* fast, one-stop-shop compiler (replaces Babel, prettier, eslint)
 --
 
 * **immutable** by default
@@ -175,7 +175,7 @@ class: impact
 * it nicely maps over React's syntax
 --
 
-* work with JavaScript ecosystem: build tools, package management
+* works with JavaScript ecosystem: build tools, package management
 
 ---
 
