@@ -24,11 +24,11 @@ The slides are written in Markdown and built with [backslide](https://github.com
 
 ## ✨ Demo
 
-I plan to load up the HTML files to GitHub pages. You'll be able to see the slides there.
+You can find the slides on **[GitHub pages][slides]**.
 
 ## Getting Started
 
-The slides will be available on GitHub pages.  
+The slides are available [here][slides].  
 But if you want to get a local copy up and running, you can follow these steps:
 
 ### Prerequisites
@@ -85,3 +85,5 @@ See [`LICENSE`](LICENSE.txt) for more information.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+
+[slides]: https://sophiabrandt.github.io/write-type-safe-react-applications-with-reason/slides.html
