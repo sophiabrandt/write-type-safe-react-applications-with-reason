@@ -1,6 +1,6 @@
 {
   "name": "write-type-safe-react-applications-with-reason",
-  "homepage": "https://sophiabrandt.github.io/write-type-safe-react-applications-with-reason",
+  "homepage": "https://github.com/sophiabrandt/write-type-safe-react-applications-with-reason",
   "version": "0.0.1",
   "description": "slides for the talk \"Write Type-Safe React Applications With Reason\"",
   "main": "index.js",
@@ -16,13 +16,12 @@
     "reactjs"
   ],
   "author": "Sophia Brandt",
-  "homepage": "https://github.com/sophiabrandt/write-type-safe-react-applications-with-reason",
   "repository": "https://github.com/sophiabrandt/write-type-safe-react-applications-with-reason",
   "license": "MIT",
   "dependencies": {
-    "backslide": "^2.3.7"
+    "backslide": "^2.6.0"
   },
   "devDependencies": {
-    "gh-pages": "^2.1.1"
+    "gh-pages": "^2.2.0"
   }
 }
