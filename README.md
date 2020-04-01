@@ -1,11 +1,7 @@
 <h1 align="center">Welcome to write-type-safe-react-applications-with-reason 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/sophiabrandt/write-type-safe-react-applications-with-reason" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  </a>
   <a href="https://choosealicense.com/licenses/mit/" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" />
   </a>
   <a href="https://twitter.com/hisophiabrandt" target="_blank">
     <img alt="Twitter: hisophiabrandt" src="https://img.shields.io/twitter/follow/hisophiabrandt.svg?style=social" />
@@ -38,14 +34,17 @@ But if you want to get a local copy up and running, you can follow these steps:
 ### Installation
 
 1. Get a copy of the project:
+
 ```sh
 npx degit sophiabrandt/write-type-safe-react-applications-with-reason write-type-safe-react-applications-with-reason
 ```
 
 2. Install dependencies:
+
 ```sh
 cd write-type-safe-react-applications-with-reason && npm install
 ```
+
 or
 
 ```sh
@@ -53,10 +52,13 @@ cd write-type-safe-react-applications-with-reason && yarn install
 ```
 
 3. View the slides:
+
 ```sh
 npm run serve
 ```
+
 or
+
 ```sh
 yarn run serve
 ```
@@ -65,9 +67,9 @@ yarn run serve
 
 👤 **Sophia Brandt**
 
-* Website: https://www.sophiabrandt.com
-* Twitter: [@hisophiabrandt](https://twitter.com/hisophiabrandt)
-* Github: [@sophiabrandt](https://github.com/sophiabrandt)
+- Website: https://www.sophiabrandt.com
+- Twitter: [@hisophiabrandt](https://twitter.com/hisophiabrandt)
+- Github: [@sophiabrandt](https://github.com/sophiabrandt)
 
 ## 🤝 Contributing
 
@@ -83,7 +85,8 @@ Copyright © 2019 [Sophia Brandt](https://github.com/sophiabrandt).<br />
 This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.  
 See [`LICENSE`](LICENSE.txt) for more information.
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
 
 [slides]: https://sophiabrandt.github.io/write-type-safe-react-applications-with-reason/slides.html
