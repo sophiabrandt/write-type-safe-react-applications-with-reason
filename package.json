@@ -19,7 +19,7 @@
   "repository": "https://github.com/sophiabrandt/write-type-safe-react-applications-with-reason",
   "license": "MIT",
   "dependencies": {
-    "backslide": "^2.6.0"
+    "backslide": "^2.6.2"
   },
   "devDependencies": {
     "gh-pages": "^2.2.0"
