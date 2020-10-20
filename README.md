@@ -3,6 +3,9 @@
   <a href="https://choosealicense.com/licenses/mit/" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" />
   </a>
+  <a href="https://github.com/sophiabrandt/write-type-safe-react-applications-with-reason/commits/master" target="_blank">
+      <img alt="Build Status" src="https://img.shields.io/github/workflow/status/sophiabrandt/write-type-safe-react-applications-with-reason/Build%20Slides?style=flat-square&logo=Github-Actions" />
+    </a>
   <a href="https://twitter.com/hisophiabrandt" target="_blank">
     <img alt="Twitter: hisophiabrandt" src="https://img.shields.io/twitter/follow/hisophiabrandt.svg?style=social" />
   </a>
