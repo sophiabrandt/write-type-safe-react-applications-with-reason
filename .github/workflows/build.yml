@@ -30,7 +30,7 @@ jobs:
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3.6.4
       with:
-        publish_dir: ./build
+        publish_dir: ./dist
         github_token: ${{ secrets.GITHUB_TOKEN }}
         user_name: 'github-actions[bot]'
         user_email: 'github-actions[bot]@users.noreply.github.com'
