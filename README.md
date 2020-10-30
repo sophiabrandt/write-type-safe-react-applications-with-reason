@@ -13,7 +13,7 @@
 
 > slides for the talk &#34;Write Type-Safe React Applications With Reason&#34;
 
-### 🏠 [Homepage](https://github.com/sophiabrandt/write-type-safe-react-applications-with-reason)
+### 🏠 [Homepage](https://sophiabrandt.github.io/write-type-safe-react-applications-with-reason/slides.html)
 
 # About
 
