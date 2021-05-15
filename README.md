@@ -17,9 +17,16 @@
 
 # About
 
+**UPDATE**:  
+ReasonML + BuckleScript is now [Rescript](https://rescript-lang.org/blog/bucklescript-is-rebranding).  
+As the ecosystem has changed around those tools, these slides are not accurate anymore.
+
+---
+
 This is the repository for the **[talk "Write Type-Safe React Applications with Reason"](https://www.meetup.com/de-DE/Softwerkskammer-Ruhrgebiet/events/266382434/)** for the **Softwerkskammer Ruhrgebiet Meetup** in December 2019.
 
 The slides are written in Markdown and built with [backslide](https://github.com/sinedied/backslide) and [Remark.js](https://github.com/gnab/remark).
+
 
 ## ✨ Demo
 
